@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainelControle", "PainelControle\PainelControle.csproj", "{DDB4C4B5-16DB-49FB-8164-616C0163C233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB4C4B5-16DB-49FB-8164-616C0163C233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB4C4B5-16DB-49FB-8164-616C0163C233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB4C4B5-16DB-49FB-8164-616C0163C233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB4C4B5-16DB-49FB-8164-616C0163C233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64AAA2B7-2DE5-41D6-8AB7-0B6F05DB301E}
+	EndGlobalSection
+EndGlobal

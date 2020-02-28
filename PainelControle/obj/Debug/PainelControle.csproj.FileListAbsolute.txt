@@ -1,0 +1,10 @@
+C:\Users\Heliton\source\repos\PainelControle\PainelControle\obj\Debug\PainelControle.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\PainelControle\PainelControle\obj\Debug\PainelControle.Form1.resources
+C:\Users\Heliton\source\repos\PainelControle\PainelControle\obj\Debug\PainelControle.Properties.Resources.resources
+C:\Users\Heliton\source\repos\PainelControle\PainelControle\obj\Debug\PainelControle.csproj.GenerateResource.cache
+C:\Users\Heliton\source\repos\PainelControle\PainelControle\obj\Debug\PainelControle.csproj.CoreCompileInputs.cache
+C:\Users\Heliton\source\repos\PainelControle\PainelControle\bin\Debug\PainelControle.exe.config
+C:\Users\Heliton\source\repos\PainelControle\PainelControle\bin\Debug\PainelControle.exe
+C:\Users\Heliton\source\repos\PainelControle\PainelControle\bin\Debug\PainelControle.pdb
+C:\Users\Heliton\source\repos\PainelControle\PainelControle\obj\Debug\PainelControle.exe
+C:\Users\Heliton\source\repos\PainelControle\PainelControle\obj\Debug\PainelControle.pdb
